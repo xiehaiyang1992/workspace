@@ -1,9 +1,14 @@
 # xshell使用方法
-## 1.ssh隧道
+## 1.ssh隧道①代理
 - 如图所示![隧道配置图](/resources/xshell1.gif)
 - 此配置是将远程端口8080通过ssh隧道映射至本地端口8080
 - 即使远程主机的8080端口没有开放
 - 本地也能通过127.0.0.1:8080访问到远程主机的8080端口
+
+## 1.ssh隧道②socks
+- xshell如图所示![隧道配置图](/resources/xshell4.gif)
+- IE浏览器如图所示![IE配置图](/resources/xshell5.gif)
+
 
 ## 2.多窗口
 - 如图所示 ![多窗口](/resources/xshell2.gif)
@@ -17,3 +22,6 @@
 - 教育版免费使用一年
 - 只需要提供邮箱即可
 - [xshell 与 xftp](https://www.netsarang.com/zh/free-for-home-school/),建议一起下载
+
+
+- [官方参考链接](http://www.xshellcn.com/zhishi/)
